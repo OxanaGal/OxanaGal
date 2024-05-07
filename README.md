@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OxanaGal
 - 👀 I’m interested in HTML, CSS, Javascript 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
